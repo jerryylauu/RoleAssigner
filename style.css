@@ -99,6 +99,7 @@ h2 {
 
 h3 {
 	font-size: 20px;
+	margin: 10px 0;
 }
 
 p {
@@ -109,7 +110,7 @@ p {
 button {
 	font-size: 24px;
 	font-weight: bold;
-	margin: 20px 0;
+	margin: 10px 0;
 	width: 40%;
 	padding: 10px;
 }
