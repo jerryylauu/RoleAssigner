@@ -53,7 +53,7 @@ body {
 
 .container-center {
     text-align: center;
-    width: 50%;
+    width: 60%;
 	margin: auto;
 	margin-top: 125px;
 	border: 2px solid black;
@@ -111,6 +111,5 @@ button {
 	font-size: 24px;
 	font-weight: bold;
 	margin: 10px 0;
-	width: 40%;
 	padding: 10px;
 }
